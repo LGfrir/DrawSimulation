@@ -1,5 +1,5 @@
 
-# 🎲 Gacha Simulator Q&A Guide
+# Q&A Guide
 
 本页面整理了两个抽卡模拟模式中的常见疑问与解答，帮助你更好地理解模拟机制与使用场景。
 
