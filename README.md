@@ -1,4 +1,3 @@
-# DrawSimulation
 
 # 🎲 Gacha Simulator Q&A Guide
 
