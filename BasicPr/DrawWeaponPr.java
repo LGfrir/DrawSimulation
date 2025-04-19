@@ -3,8 +3,8 @@ package me.LGfrir.BasicPr;
 public class DrawWeaponPr {
     public static int WeaponCalcFI(int currentDraw){
         if(0 < currentDraw && currentDraw <= 62) return 7;
-        if(62 < currentDraw && currentDraw <= 74) return 7 + (currentDraw - 62) * 70;
-        if(75 < currentDraw && currentDraw <= 79) return 777 + (currentDraw - 73) * 35;
+        if(62 < currentDraw && currentDraw <= 73) return 7 + (currentDraw - 62) * 70;
+        if(73 < currentDraw && currentDraw <= 79) return 777 + (currentDraw - 73) * 35;
         return 1000;
     }
 
